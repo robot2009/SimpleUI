@@ -8,5 +8,6 @@ public class MainClass {
         int k = 0;
         int l = 0;
         i++;
+        i++;
     }
 }
